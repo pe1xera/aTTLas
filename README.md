@@ -1,6 +1,32 @@
+```
+    .n.
+   /___\                *                 *                *
+   | |°|                        *
+  IIIIIII     *           *           *               *
+   |  /|
+   | / |          *           *               *         *
+   |/  |
+   |  /|            ______  ______ ______ __      ______  ______  
+   | / |           /\  __ \/\__  _/\__  _/\ \    /\  __ \/\  ___\ 
+   |/  |______     \ \  __ \/_/\ \\/_/\ \\ \ \___\ \  __ \ \___  \ 
+   |  /|_______\    \ \_\ \_\ \ \_\  \ \_\\ \_____\ \_\ \_\/\_____\ 
+   | / |     ° |     \/_/\/_/  \/_/   \/_/ \/_____/\/_/\/_/\/_____/
+___|/__|___[]__| _____________________________________ ~by pe1xera
+ Version 0.0.1           
 
-
+```  
 ---
+# Usabilidade
+
+Modo de uso: ./attlas.py <endereço do alvo> <quantidade de portas\>  
+Opções disponíveis:  
+
+      100 - Escaneia as 100 portas mais populares  
+      1000 - Escaneia as 100 portas mais populares  
+      all - Escaneia todas as portas no alvo  
+      
+Ex.: ./attlas.py businesscorp.com.br 100 - Escaneia as 100 portas mais populares em businesscorp.com.br
+
 
 # Intenção
 
@@ -17,3 +43,7 @@ Surge, então, o **"aTTLas"**, um simples portscanner em Python, desenvolvido no
 O aTTLas não tem a pretensão de ser melhor do que qualquer script existente e sequer ser comparável a qualquer deles, servindo apenas como um método para colocar em prática aquilo que aprendi, servindo como minha primeira ferramenta autoral. 
 
 Dito isso, querido leitor, também não se trata de um script estéril e sem utilidade prática. Na realidade, aTTLas pode ser bastante plausível, a depender das suas intenções.
+
+---
+
+![](https://pe1xera.github.io/scripting.png)
