@@ -1,4 +1,4 @@
-< image src="scripting.png" position="center" style="border-radius: 5%;" >  
+
 
 ---
 
